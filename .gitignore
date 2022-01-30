@@ -1,0 +1,6 @@
+/node_modules/
+/docs/_build
+Makefile.ini
+/custom/*
+/custom_2/*
+.env
