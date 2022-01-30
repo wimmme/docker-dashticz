@@ -1,2 +1,2 @@
 # docker-dashticz
- Docker wrapper for Dashticz
+ Docker wrapper for https://github.com/Dashticz/dashticz
